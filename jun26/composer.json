@@ -1,0 +1,14 @@
+{
+    "name": "vrimeikis/jun26",
+    "type": "project",
+    "require": {
+        "bbluo/hello": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Vytautas Rimeikis",
+            "email": "vytautas.rimeikis@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c48ce95157232f97b337eca9df4db431",
+    "packages": [
+        {
+            "name": "bbluo/hello",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bbluo/hello.git",
+                "reference": "2d1194bb452ad38df833a0c5af25f43fa68c66b8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bbluo/hello/zipball/2d1194bb452ad38df833a0c5af25f43fa68c66b8",
+                "reference": "2d1194bb452ad38df833a0c5af25f43fa68c66b8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Hello\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "bbluo",
+                    "email": "1144803714@qq.com"
+                }
+            ],
+            "description": "echo hello world",
+            "time": "2017-11-10T15:09:06+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

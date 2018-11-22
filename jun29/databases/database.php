@@ -50,6 +50,9 @@ $sql3 = "
     ORDER BY id DESC
 ";
 
+
+header('Location: database.php', true, 302);
+
 $res = mysqli_query($db, $sql3);
 
 print_r(mysqli_fetch_all($res));
